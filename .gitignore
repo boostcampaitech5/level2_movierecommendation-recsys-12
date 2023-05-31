@@ -1,0 +1,8 @@
+data/
+code/.empty
+code/output
+code/README.md
+code/requirements.txt
+*.log
+*.txt
+*.DS_Store
